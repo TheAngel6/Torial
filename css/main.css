@@ -47,3 +47,10 @@ a:hover {
     background-color: transparent;
     text-decoration: none;
 }
+.portal{
+    background-image: url(../pit/portal.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: rgb(173, 216, 230);
+}
