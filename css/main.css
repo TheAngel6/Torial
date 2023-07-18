@@ -3,7 +3,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 .story{
-    color:rgba(255,0,0,0.500)
+    color:rgba(255, 0, 0, 0.8)
     
 }
 .home{
@@ -26,4 +26,24 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
     color: #FFD871;
+}
+a:link{
+    color: cyan;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:visited{
+    color: cyan;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
 }
