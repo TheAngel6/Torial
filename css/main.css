@@ -6,6 +6,13 @@ body{
     color:rgba(255, 0, 0, 0.8)
     
 }
+.portal{
+    background-image: url(../pit/portal.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: rgb(173, 216, 230);
+}
 .home{
     background-image: url(../pit/home.png);
     background-repeat: no-repeat;
@@ -46,11 +53,4 @@ a:hover {
     color: yellow;
     background-color: transparent;
     text-decoration: none;
-}
-.portal{
-    background-image: url(../pit/portal.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
-    color: rgb(173, 216, 230);
 }
